@@ -1,18 +1,22 @@
 # Artificial Intelligence and Knowledge Representation Lab
 
-A collection of Python-based practical implementations covering fundamental concepts in Artificial Intelligence and Knowledge Representation.
+A collection of Python-based practical implementations covering Artificial Intelligence, Knowledge Representation, Machine Learning, Neural Networks, Logical Reasoning, and Search Algorithms.
 
 ## Practical Implementations
 
 | No. | Experiment | Notebook |
-|---|---|---|
-| 1 | First-Order Logic Inference and Resolution | FOL_Inference_and_Resolution.ipynb |
-| 2 | University Knowledge Base Using Forward Chaining | University_Knowledge_Base_Forward_Chaining.ipynb |
-| 3 | Semantic Network and Inheritance | Semantic_Network_and_Inheritance.ipynb |
-| 4 | Frame-Based Knowledge Representation | Frame_Based_Knowledge_Representation.ipynb |
-| 5 | Restaurant Script Simulation | Restaurant_Script_Simulation.ipynb |
-| 6 | Fuzzy Logic Application | Fuzzy_Logic_Application.ipynb |
-| 7 | Game Theory with Alpha-Beta Pruning | Game_Theory_Alpha_Beta_Pruning.ipynb |
+|---:|---|---|
+| 1 | Autoencoder Image Reconstruction and Denoising | [View Notebook](Autoencoder_Image_Reconstruction_and_Denoising.ipynb) |
+| 2 | Conceptual Dependency Representation | [View Notebook](Conceptual_Dependency_Representation.ipynb) |
+| 3 | First-Order Logic Inference and Resolution | [View Notebook](FOL_Inference_and_Resolution.ipynb) |
+| 4 | Frame-Based Knowledge Representation | [View Notebook](Frame_Based_Knowledge_Representation.ipynb) |
+| 5 | Fuzzy Logic Application | [View Notebook](Fuzzy_Logic_Application.ipynb) |
+| 6 | Game Theory with Alpha-Beta Pruning | [View Notebook](Game_Theory_Alpha_Beta_Pruning.ipynb) |
+| 7 | Restaurant Script Simulation | [View Notebook](Restaurant_Script_Simulation.ipynb) |
+| 8 | Semantic Network and Inheritance | [View Notebook](Semantic_Network_and_Inheritance.ipynb) |
+| 9 | Seq2Seq English-to-Hindi Translation | [View Notebook](Seq2Seq_English_to_Hindi_Translation.ipynb) |
+| 10 | University Knowledge Base Using Forward Chaining | [View Notebook](University_Knowledge_Base_Forward_Chaining.ipynb) |
+| 11 | Water Jug Problem Using Search Algorithms | [View Notebook](Water-Jug-Problem/water_jug_search_algorithms.ipynb) |
 
 ## Technologies Used
 
@@ -21,18 +25,41 @@ A collection of Python-based practical implementations covering fundamental conc
 - Google Colab
 - NumPy
 - Matplotlib
+- TensorFlow / Keras
+
+## Key Concepts Covered
+
+- Artificial Intelligence fundamentals
+- Knowledge Representation
+- First-Order Logic and Logical Inference
+- Semantic Networks and Inheritance
+- Frame-Based Representation
+- Fuzzy Logic
+- Search Algorithms
+- Heuristic Search
+- Game Theory and Alpha-Beta Pruning
+- Neural Networks and Autoencoders
+- Sequence-to-Sequence Learning
+- Forward Chaining and Knowledge Bases
 
 ## How to Run
 
-Open any notebook using Jupyter Notebook, JupyterLab, or Google Colab and execute its cells sequentially.
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/saloniganvir2004-sketch/Artificial-Intelligence-and-Knowledge-Representation-Lab.git
+2. Open the repository folder.
+3. Open any notebook using Jupyter Notebook, JupyterLab, or Google Colab.
+4. Execute the cells sequentially.
 
 ## Learning Objectives
 
-- Understand knowledge representation techniques.
+- Understand fundamental Artificial Intelligence concepts.
+- Explore Knowledge Representation techniques.
 - Implement logical inference and reasoning.
-- Explore knowledge bases and rule-based systems.
-- Apply fuzzy logic to decision-making.
-- Understand game theory and adversarial search.
+- Apply search algorithms to problem-solving.
+- Understand neural network and deep learning concepts.
+- Explore intelligent decision-making techniques.
 
 ## Author
 
